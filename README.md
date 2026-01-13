@@ -1,2 +1,2 @@
 # Zadanie-dodatkowe-IZS
-Zadanie dodatkowe
+Zadanie dodatkowe w pythonie oraz sprawozdanie PDF
